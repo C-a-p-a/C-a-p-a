@@ -1,6 +1,6 @@
 # Hi, I'm Jacob
 
-I'm a 21-year-old **Cognitive Science** student specializing in **Informatics**, passionate about **AI, Machine Learning, and Autonomous Systems**. I started my programming journey in 2021 with a PS5 stock monitoring project, which evolved into a comprehensive monitoring system tracking 30+ websites for various products.
+I'm a 21-year-old **Cognitive Science** student at University of Bergen, specializing in **Informatics**, passionate about **AI, Machine Learning, and Autonomous Systems**. I started my programming journey in 2021 with a PS5 stock monitoring project, which evolved into a comprehensive monitoring system tracking 30+ websites for various products.
 
 ---
 
