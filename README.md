@@ -18,7 +18,7 @@ I'm a 21-year-old **Cognitive Science** student specializing in **Informatics**,
 
 - **Languages:** Java, Python, R, JavaScript, ProLog
 - **Areas:** Web Scraping, APIs, Smart systems
-- **Tools:** AWS, Claude Code, BeautifulSoup, Selenium, discord.py, Git, GitHub, Cursor
+- **Tools:** AWS, Claude Code, BeautifulSoup, Selenium, discord.py, Git, GitHub, Cursor, Maven, Java Swing, JUnit 5, PIT
 
 ---
 
@@ -32,6 +32,13 @@ My first proper programming project - a web scraper designed to monitor PS5 stoc
 
 ### 3. [Raspberry Pi SmartHub](https://github.com/C-a-p-a/rpi-smarthub)
 Combining hardware and software in one project - A smart hub designed to give me useful information at a glance. Weather forecast, bus departures, live stock prices, calendar, today's headlines, shopping list++. Ran on a Raspberry Pi 5 with a 7' touch screen.
+
+### 4. [Pokemon Battle](https://github.com/C-a-p-a/Pokemon-Battle)
+Project I developed in the course "Introduction to Object Oriented Programming" at UiB. The purpose of this project was to learn more about Object Oriented Programming (OOP), testing (JUnit 5, Pit) and write good, modular code.
+
+### 5. [Wordle AI Solver](https://github.com/C-a-p-a/Wordle-AI-Solver)
+Built for the "Algorithms and Data Structures" course at UiB. Multiple AI strategies with varying performance - custom strategy significantly outperforms baseline through smart exploration-exploitation balancing. Focus on algorithm optimization and runtime complexity analysis.
+
 
 ---
 
