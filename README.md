@@ -5,6 +5,7 @@
 ## Tech Stack
 
 **Languages:** Java, Python, R, JavaScript, Swift, ProLog
+
 **Tools:** AWS, Vercel, Supabase, Railway, Claude Code, Selenium, BeautifulSoup, Git, Maven, JUnit 5
 
 ## Projects
