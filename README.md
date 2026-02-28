@@ -6,14 +6,17 @@
 
 **Languages:** Java, Python, R, JavaScript, Swift, ProLog
 
-**Tools:** AWS, Vercel, Supabase, Railway, Claude Code, Selenium, BeautifulSoup, Git, Maven, JUnit 5
+**Tools:** Claude Code, Vercel, Supabase, Railway, Selenium, BeautifulSoup, Git, Maven, JUnit 5, Pencil
 
 ## Projects
-
+- **Mint** - Full-stack grocery deals app for Norwegian stores. AI meal planning (w/ recipes), price comparison, personalized recommendations based on your taste
+- - **askr** - Tool for processing and answering questions about internal documents (RAG model) - no hallucinations
 - **Stock Monitoring System** - Multi-site tracker monitoring 30+ Norwegian retail websites
 - [**Raspberry Pi SmartHub**](https://github.com/C-a-p-a/rpi-smarthub) - Weather, transit, stocks, and more on a Pi 5 with touchscreen
 - [**Wordle AI Solver**](https://github.com/C-a-p-a/Wordle-AI-Solver) - Multiple AI strategies with smart exploration-exploitation balancing
 - [**Pokemon Battle**](https://github.com/C-a-p-a/Pokemon-Battle) - OOP project with full test coverage (JUnit 5, PIT)
+
+
 
 ## Connect
 
