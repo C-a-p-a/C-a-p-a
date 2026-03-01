@@ -2,6 +2,8 @@
 
 21-year-old **Cognitive Science** student at University of Bergen, specializing in **Informatics**. Passionate about AI, autonomous systems, and building things that work in the real world. Started coding in 2021 with a PS5 stock tracker that grew into a 30+ website monitoring system.
 
+**I love building things that makes everyday life a little easier.**
+
 ## Tech Stack
 
 **Languages:** Java, Python, R, JavaScript, Swift, ProLog
