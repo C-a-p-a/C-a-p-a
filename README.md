@@ -11,7 +11,7 @@
 **Tools:** Claude Code, Vercel, Supabase, Railway, Selenium, BeautifulSoup, Git, Maven, JUnit 5, Pencil
 
 ## Projects
-- **Mint** - Full-stack grocery deals app for Norwegian stores. AI meal planning (w/ recipes), price comparison, personalized recommendations based on your taste
+- **Mint** - Full-stack grocery deals app for Norwegian stores. AI meal planning (w/ recipes), price comparison, personalized recommendations based on your taste. **Users save up to 40% when going grocery shopping with Mint**
 - **askr** - Tool for processing and answering questions about internal documents (RAG model) - no hallucinations
 - **Stock Monitoring System** - Multi-site tracker monitoring 30+ Norwegian retail websites
 - [**Raspberry Pi SmartHub**](https://github.com/C-a-p-a/rpi-smarthub) - Weather, transit, stocks, and more on a Pi 5 with touchscreen
