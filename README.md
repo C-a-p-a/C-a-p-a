@@ -8,7 +8,7 @@
 
 **Languages:** Java, Python, R, JavaScript, Swift, ProLog
 
-**Tools:** Claude Code, Vercel, Supabase, Railway, Selenium, BeautifulSoup, Git, Maven, JUnit 5, Pencil
+**Tools:** Claude Code, Expo, Vercel, XCode, Supabase, Railway, Selenium, BeautifulSoup, Git, Maven, JUnit 5, Pencil
 
 ## Projects
 - **Mint** - Full-stack grocery deals app for Norwegian stores. AI meal planning (w/ recipes), price comparison, personalized recommendations based on your taste. **Users save up to 40% when going grocery shopping with Mint**
