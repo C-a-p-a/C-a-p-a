@@ -5,4 +5,4 @@
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/jacobkvalesaugestad) · capakvale@gmail.com
+[LinkedIn](https://linkedin.com/in/jacobkvalesaugestad)
